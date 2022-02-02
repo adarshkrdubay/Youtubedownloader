@@ -1,6 +1,6 @@
 [![](https://camo.githubusercontent.com/c96ba33a0453c8a2b81f1082f5821a9366fa7fdbe94acfd18ac64314a0a4392d/68747470733a2f2f6173736574732e6e69636b666963616e6f2e636f6d2f67682d7079747562652e6d696e2e737667)](https://pytube.io/en/latest/)
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)[![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://pypi.org/project/pytube/) [![PyPi version](https://badgen.net/pypi/v/pip/)](https://pypi.org/project/pytube/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)[![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://pypi.org/project/pytube/) [![PyPi version](https://badgen.net/pypi/v/pip/)](https://pypi.org/project/pytube/)
 # Youtube video downloader
 # pytube module requride 
 # install Pytube 
