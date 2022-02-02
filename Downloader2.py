@@ -9,7 +9,7 @@ press 2 for medium quality .
 press 3 for high quality.
 """)
 a=input(":  ")
-if a==1:
+if a=="1":
     print("""what do you want to download 
     input a for audio 
     input v for video """)
@@ -32,7 +32,7 @@ if a==1:
          print("Wrong cammand")
 
          os.system("cls")
-elif a==2:
+elif a=="2":
     print("""what do you want to download 
     input a for audio 
     input v for video """)
@@ -54,7 +54,7 @@ elif a==2:
     else:
          print("Wrong cammand")
          os.system("cls")
-elif a==3:
+elif a=="3":
     print("""what do you want to download 
     input a for audio 
     input v for video """)
