@@ -47,7 +47,7 @@ elif a=="2":
     elif p=="V" or p=="v":
          z=input("input the name of file plz include .mp4 at last:   ")
          print(f'Downloding: {yt.title}')     
-         yt.streams.get_by_itag(22).download()
+         yt.streams.get_by_itag(137).download()
          os.rename(yt.streams.get_by_itag(137).default_filename, z )
          print("DONE")
          os.system("cls")
@@ -70,7 +70,7 @@ elif a=="3":
          z=input("input the name of file plz include .mp4 at last:   ")
          print(f'Downloding: {yt.title}')     
          yt.streams.get_by_itag(22).download()
-         os.rename(yt.streams.get_by_itag(137).default_filename, z )
+         os.rename(yt.streams.get_by_itag(22).default_filename, z )
          print("DONE")
          os.system("cls")
     else:
