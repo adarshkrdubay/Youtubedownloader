@@ -4,7 +4,7 @@
 # Youtube video downloader
 # pytube module requride 
 # install Pytube 
-pip install pytube .
+''' pip install pytube '''
 # Downloader1
 In Downloader1 you can only download video in 720 P
 # Downloader2.py
